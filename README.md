@@ -27,10 +27,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 
-### Continued development
-
-I will work on the box shadow of the container to make the project more accurate. In the meantime, I will apply any feedback I get to improve the project.
-
 ## Author
 
 - Frontend Mentor - [@tajwararik](https://www.frontendmentor.io/profile/tajwararik)
